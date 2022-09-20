@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "51137072788",
+    "project_id": "loginpasswordless",
+    "storage_bucket": "loginpasswordless.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51137072788:android:30fc6c80c93cbcd7c6ae81",
+        "android_client_info": {
+          "package_name": "com.greylabs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51137072788-mtvm4pje8s8ftqnnonivljh5snf7pcc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greylabs.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "51137072788-626d36b2frptcdn5vclu6q1eul506s18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48tCJXGyAYBPnFqAm3AWxKGqdfu9lzxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51137072788-626d36b2frptcdn5vclu6q1eul506s18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51137072788-t29p1vervq9ntkm6jpn28hpca7qht7fv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greylabs.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
